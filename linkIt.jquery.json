@@ -1,0 +1,32 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jquery plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "color",
+        "animation"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Kevin Landais",
+        "url": "http://kevtl.nl"
+    },
+    "maintainers": [
+        {
+            "name": "Kevin Landais",
+            "email": "kevtlonline@gmail.com",
+            "url": "http://kevtl.nl"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/kevtlonline/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/kevtlonline/jquery.linkIt",
+    "docs": "https://github.com/kevtlonline/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
